@@ -5,7 +5,7 @@ import com.produtos.apirest.models.Produto;
 
 /**
  * Facilita a persistencia de dados no banco.
- * @author clah
+ * @author clarissa
  *
  */
 public interface ProdutoRepository extends JpaRepository<Produto, Long> {
